@@ -3,7 +3,7 @@
   <groupId>com.inner.adsdk</groupId>
   <artifactId>adsdk</artifactId>
   <versioning>
-    <release>2.8.0</release>
+    <release>2.8.2.1</release>
     <versions>
       <version>1.1.34.2</version>
       <version>2.2.0</version>
@@ -15,7 +15,8 @@
       <version>2.6.5</version>
       <version>2.6.5.1</version>
       <version>2.8.0</version>
+      <version>2.8.2.1</version>
     </versions>
-    <lastUpdated>20190225085150</lastUpdated>
+    <lastUpdated>20190328014531</lastUpdated>
   </versioning>
 </metadata>
